@@ -69,17 +69,16 @@ void inverse(int mat[N][N], int inv[N][N]) {
 int main() {
     // Example binary matrix (replace with your actual matrix)
     int binaryMatrix[N][N] = {
-            {1, 1, 0, 1, 0, 1, 0, 0},
-            {1, 0, 1, 1, 1, 0, 0, 1},
-            {0, 1, 1, 0, 1, 0, 0, 1},
-            {1, 0, 1, 0, 0, 0, 0, 1},
-            {0, 1, 0, 0, 1, 1, 1, 0},
-            {1, 0, 0, 1, 0, 0, 1, 1},
-            {0, 1, 1, 0, 1, 0, 1, 0},
-            {1, 0, 0, 1, 0, 0, 1, 0}
-
+            {0, 0, 0, 0, 0, 1, 0, 0},
+            {0, 0, 1, 0, 0, 0, 0, 0},
+            {0, 0, 0, 0, 1, 0, 0, 0},
+            {0, 0, 0, 0, 0, 0, 0, 1},
+            {0, 0, 0, 1, 0, 0, 0, 0},
+            { 1, 0, 0, 0, 0, 0, 0, 0 },
+            { 0, 1, 0, 0, 0, 0, 0, 0 },
+            { 0, 0, 0, 0, 0, 0, 1, 0 }};
             // ... (fill in the rest of the rows)
-    };
+
 
     int inverseMatrix[N][N];
     inverse(binaryMatrix, inverseMatrix);
