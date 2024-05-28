@@ -1,0 +1,3 @@
+C:/Users/peleg/CLionProjects/inverse/cmake-build-debug/CMakeFiles/inverse.dir
+C:/Users/peleg/CLionProjects/inverse/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/peleg/CLionProjects/inverse/cmake-build-debug/CMakeFiles/rebuild_cache.dir

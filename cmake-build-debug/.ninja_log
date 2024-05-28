@@ -1,0 +1,7 @@
+# ninja log v5
+1	84	7385876673835362	CMakeFiles/inverse.dir/main.c.obj	b20feb8036b56c8
+84	177	7385876674728298	inverse.exe	a35c3f761ba63ed4
+1	43	7385876827042149	CMakeFiles/inverse.dir/main.c.obj	b20feb8036b56c8
+43	88	7385876827477937	inverse.exe	a35c3f761ba63ed4
+1	45	7385882545040325	CMakeFiles/inverse.dir/main.c.obj	b20feb8036b56c8
+45	99	7385882545554797	inverse.exe	a35c3f761ba63ed4
